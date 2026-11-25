@@ -1,1 +1,7 @@
-
+# build artefacts
+build/
+*.o
+#python cache
+__pychache__/
+# virtual enviromnet
+venv/
